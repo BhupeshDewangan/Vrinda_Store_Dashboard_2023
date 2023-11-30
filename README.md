@@ -37,6 +37,6 @@ Analyzing customer behaviors and sales performance for growth in 2024.
 
 Target women customers (30-49 yrs) in Maharashtra, Karnataka, and Uttar Pradesh on Amazon, Flipkart, and Myntra for improved Vrinda Store sales.
 
-Github Link - 
+Github Link - https://github.com/BhupeshDewangan/Vrinda_Store_Dashboard_2023/tree/main
 
 Online Dashboard - https://1drv.ms/x/s!AkxyY2cXGUOifPneYpD7HrZQ8fw
